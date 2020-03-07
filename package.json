@@ -1,0 +1,25 @@
+{
+  "name": "react-hook-firestore",
+  "version": "0.0.1",
+  "description": "Set of react hooks to use firebase firestore seamlessly",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriss1897/react-hook-firestore.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "firebase",
+    "firestore"
+  ],
+  "author": "kriss1897",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriss1897/react-hook-firestore/issues"
+  },
+  "homepage": "https://github.com/kriss1897/react-hook-firestore#readme"
+}
